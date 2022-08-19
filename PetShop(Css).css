@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 500px;
+}
+
+
+.head{
+    margin-bottom: 50px;
+}
+
+.h3{
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+}
+
+.DIV{
+margin-left: 20px;
+margin-right: 20px;
+padding: 10px;
+}
